@@ -20,8 +20,7 @@ format:
       light: lux
       dark: slate
     toggle: true
-  pdf:
-    toc: true
+  
 --- 
 
 
